@@ -1,0 +1,19 @@
+From: Amazon Security Team <support@amaz0n-verification.com>
+To: user@example.com
+Subject: Urgent: Your Amazon Account Has Been Locked!
+
+Dear Customer,
+
+We have detected suspicious login attempts on your Amazon account from an unrecognized device.  
+As a security measure, your account has been temporarily suspended.
+
+To restore access, please verify your identity immediately by clicking the secure link below:
+
+👉 https://amazon-verify.secure-login-alerts.net
+
+Failure to verify your identity within 24 hours will result in permanent account suspension.
+
+Best regards,  
+Amazon Security Team
+
+Attachment: Amazon_Verify_Account.exe
